@@ -2,7 +2,7 @@
 
 # Table of Contents
 - [About](#About)
-- [SQL]( #Sql)
+- [SQL](https://github.com/suja27/Sqlquery_Practice_QA23)
 
 
 ### About
