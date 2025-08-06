@@ -1,10 +1,20 @@
 ## Sales Analysis 
 
-# Table of Contents
-- [About](#About)
-- [SQL](https://github.com/suja27/Sqlquery_Practice_QA23)
+## 📑 Table of Contents
 
-
+- [About](#about)
+- [Portfolio Projects](#portfolio-projects)
+  - **Excel**
+    - [Analyzing the Factors Contributing to the Success of a Movie](#analyzing-the-factors-contributing-to-the-success-of-a-movie)
+    - [Tech Store Sales Analysis](#tech-store-sales-analysis)
+  - **SQL**
+    - [Covid 19 Data Exploration](#covid-19-data-exploration)
+    - [Nashville Housing Data Cleaning](#nashville-housing-data-cleaning)
+  - **Power BI**
+    - [Legendary Pokémon Analysis (Study Project)](#legendary-pokémon-analysis-study-project)
+  - **Excel / Google Sheets**
+  - **Tableau** ––> [go to Tableau..](#go-to-tableau)
+  
 ### About
   Welcome to my portfolio!
 
