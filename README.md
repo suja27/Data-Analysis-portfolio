@@ -27,4 +27,4 @@ In this portfolio, you’ll find a collection of projects that highlight my tech
 
    
    ### Sql 
-  I have  practiced many sql problems from leet code  Such as easy, medium , hard level of complexity 
+  I have  practiced many sql problems from leet code  Such as easy, medium , hard level of complexity.These exercises helped strengthen my understanding of SQL concepts such as JOIN, GROUP BY, subqueries, window functions, and complex filtering, which are essential for solving real-world data problems. 
