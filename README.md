@@ -1,20 +1,3 @@
-## Sales Analysis 
-
-## 📑 Table of Contents
-
-- [About](#about)
-- [Portfolio Projects](#portfolio-projects)
-  - **Excel**
-    - [Analyzing the Factors Contributing to the Success of a Movie](#analyzing-the-factors-contributing-to-the-success-of-a-movie)
-    - [Tech Store Sales Analysis](#tech-store-sales-analysis)
-  - **SQL**
-    - [Covid 19 Data Exploration](#covid-19-data-exploration)
-    - [Nashville Housing Data Cleaning](#nashville-housing-data-cleaning)
-  - **Power BI**
-    - [Legendary Pokémon Analysis (Study Project)](#legendary-pokémon-analysis-study-project)
-  - **Excel / Google Sheets**
-  - **Tableau** ––> [go to Tableau..](#go-to-tableau)
-  
 ### About
   Welcome to my portfolio!
 
@@ -33,6 +16,26 @@ Dashboard design
 Data storytelling and reporting
 
 In this portfolio, you’ll find a collection of projects that highlight my technical capabilities and analytical thinking. These include SQL scripts, dashboards, Excel models, and PowerPoint presentations, all focused on transforming data into actionable insights. Each project is designed to demonstrate how I turn raw data into meaningful visualizations and business decisions.
+
+## 📑 Table of Contents
+
+- [About](#about)
+- [Portfolio Projects](#portfolio-projects)
+  - **Excel**
+    - [Analyzing the Factors Contributing to the Success of a Movie](#analyzing-the-factors-contributing-to-the-success-of-a-movie)
+    - [Tech Store Sales Analysis](#tech-store-sales-analysis)
+  - **SQL**
+    - [Covid 19 Data Exploration](#covid-19-data-exploration)
+    - [Nashville Housing Data Cleaning](#nashville-housing-data-cleaning)
+  - **Power BI**
+    - [Legendary Pokémon Analysis (Study Project)](#legendary-pokémon-analysis-study-project)
+  - **Excel / Google Sheets**
+  - **Tableau** ––> [go to Tableau..](#go-to-tableau)
+  
+
+## 💼 Portfolio Projects
+
+In this section, I list data analytics projects, briefly describing the technology stack used to solve each case. These projects showcase my skills in working with real-world datasets using tools such  SQL, Power BI, Excel, and Tableau.
 
 
    
