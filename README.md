@@ -38,7 +38,8 @@ In this portfolio, you’ll find a collection of projects that highlight my tech
 In this section, I list data analytics projects, briefly describing the technology stack used to solve each case. These projects showcase my skills in working with real-world datasets using tools such  SQL, Power BI, Excel, and Tableau.
 
 ## Sales and profit Analysis Dashboard
-  **Code:** 
+  **Code:** https://github.com/suja27/Sales-and-profit-Dashboard-Excel
+  
  **Description:** This project showcases a dynamic sales and profit dashboard built using Microsoft Excel. It involves data cleaning, analysis, and visualization to uncover key business insights. The dashboard helps track performance over time, identify top-selling products, monitor profit trends, and support informed decision-making.
    
    ### Sql 
