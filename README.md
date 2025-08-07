@@ -20,9 +20,9 @@ In this portfolio, you’ll find a collection of projects that highlight my tech
 ## 📑 Table of Contents
 
 - [About](#about)
-- [Portfolio Projects](#portfolio-projects)
+- [Portfolio Projects](#portfolio-Projects)
   - **Excel**
-    - [Analyzing the Factors Contributing to the Success of a Movie](#analyzing-the-factors-contributing-to-the-success-of-a-movie)
+    - [Sales and profit Analysis Dashboard](#Sales-and-profit-Analysis-Dashboard)
     - [Tech Store Sales Analysis](#tech-store-sales-analysis)
   - **SQL**
     - [Covid 19 Data Exploration](#covid-19-data-exploration)
@@ -37,7 +37,7 @@ In this portfolio, you’ll find a collection of projects that highlight my tech
 
 In this section, I list data analytics projects, briefly describing the technology stack used to solve each case. These projects showcase my skills in working with real-world datasets using tools such  SQL, Power BI, Excel, and Tableau.
 
-
+## Sales and profit Analysis Dashboard
    
    ### Sql 
   I have  practiced many sql problems from leet code  Such as easy, medium , hard level of complexity.These exercises helped strengthen my understanding of SQL concepts such as JOIN, GROUP BY, subqueries, window functions, and complex filtering, which are essential for solving real-world data problems. 
