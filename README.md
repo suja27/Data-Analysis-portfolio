@@ -38,6 +38,8 @@ In this portfolio, you’ll find a collection of projects that highlight my tech
 In this section, I list data analytics projects, briefly describing the technology stack used to solve each case. These projects showcase my skills in working with real-world datasets using tools such  SQL, Power BI, Excel, and Tableau.
 
 ## Sales and profit Analysis Dashboard
+  **Code:** 
+ **Description:** This project showcases a dynamic sales and profit dashboard built using Microsoft Excel. It involves data cleaning, analysis, and visualization to uncover key business insights. The dashboard helps track performance over time, identify top-selling products, monitor profit trends, and support informed decision-making.
    
    ### Sql 
   I have  practiced many sql problems from leet code  Such as easy, medium , hard level of complexity.These exercises helped strengthen my understanding of SQL concepts such as JOIN, GROUP BY, subqueries, window functions, and complex filtering, which are essential for solving real-world data problems. 
