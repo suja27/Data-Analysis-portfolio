@@ -61,7 +61,7 @@ In this section, I list data analytics projects, briefly describing the technolo
 
  
    
-  **Netflix Data Analysis**
+ ## **Netflix Data Analysis**
   
  **URL:** https://github.com/suja27/Netflix-SQL-Analysis-Project
  
