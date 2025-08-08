@@ -62,6 +62,9 @@ In this section, I list data analytics projects, briefly describing the technolo
  
    
   **Netflix Data Analysis**
+  
  **URL:** https://github.com/suja27/Netflix-SQL-Analysis-Project
+ 
+ **Description**  This project provides a comprehensive SQL-based analysis of Netflix’s catalog of movies and TV shows. The primary objective is to extract meaningful business insights from the data, identify trends, and support decision-making with evidence-based findings
    
   I have  practiced many sql problems from leet code  Such as easy, medium , hard level of complexity.These exercises helped strengthen my understanding of SQL concepts such as JOIN, GROUP BY, subqueries, window functions, and complex filtering, which are essential for solving real-world data problems. 
