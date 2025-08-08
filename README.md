@@ -23,7 +23,7 @@ In this portfolio, you’ll find a collection of projects that highlight my tech
 - [Portfolio Projects](#portfolio-Projects)
   - **Excel**
     - [Sales and profit Analysis Dashboard](#Sales-and-profit-Analysis-Dashboard)
-    - [Tech Store Sales Analysis](#tech-store-sales-analysis)
+    - [Call Center Performance](#Call-Center-Performance)
   - **SQL**
     - [Covid 19 Data Exploration](#covid-19-data-exploration)
     - [Nashville Housing Data Cleaning](#nashville-housing-data-cleaning)
@@ -38,9 +38,21 @@ In this portfolio, you’ll find a collection of projects that highlight my tech
 In this section, I list data analytics projects, briefly describing the technology stack used to solve each case. These projects showcase my skills in working with real-world datasets using tools such  SQL, Power BI, Excel, and Tableau.
 
 ## Sales and profit Analysis Dashboard
-  **Code:** https://github.com/suja27/Sales-and-profit-Dashboard-Excel
+  **URL:** https://github.com/suja27/Sales-and-profit-Dashboard-Excel
   
  **Description:** This project showcases a dynamic sales and profit dashboard built using Microsoft Excel. It involves data cleaning, analysis, and visualization to uncover key business insights. The dashboard helps track performance over time, identify top-selling products, monitor profit trends, and support informed decision-making.
+ 
+  **Tools Used**
+  
+  **Microsoft Excel** – Utilized for creating Pivot Tables, charts, KPI visuals, and applying conditional formatting for clarity.
+  
+  **Power Query** – Used for data cleaning, transformation, and preparing structured datasets for analysis.
+
+ ## Call Center Performance ##
+ **URL:** https://github.com/suja27/Call-center-dashboard-Excel
+ 
+ **Description:** This dashboard provides a comprehensive analysis of call centre performance by monitoring key metrics such as total calls handled, average call duration, customer satisfaction, first-call resolution rate, and agent performance. Built using Microsoft Excel , it enables managers to quickly assess operational efficiency and identify areas for improvement.
+ 
    
    ### Sql 
   I have  practiced many sql problems from leet code  Such as easy, medium , hard level of complexity.These exercises helped strengthen my understanding of SQL concepts such as JOIN, GROUP BY, subqueries, window functions, and complex filtering, which are essential for solving real-world data problems. 
