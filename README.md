@@ -31,7 +31,7 @@ In this portfolio, you’ll find a collection of projects that highlight my tech
     - [HR-Dashboard](#HR-Dashboard)
     - [Sales Analysis](#Sales-Analysis)
   - **Excel / Google Sheets**
-  - **Tableau** ––> [go to Tableau..](#go-to-tableau)
+  - **Tableau** ––> <a href = "https://public.tableau.com/app/profile/sujatha.ahilan/vizzes"> go to tableau </a>
   
 
 ## 💼 Portfolio Projects
