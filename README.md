@@ -73,8 +73,8 @@ In this section, I list data analytics projects, briefly describing the technolo
 
 
  ## Nashville Housing Data Cleaning ##
- **URL:** Data Cleaning Project Queries: Nashville Housing.sql](https://github.com/suja27/Nashville-Housing-Project-SQL)
-
+ **URL:**   <a  href = "https://github.com/suja27/Nashville-Housing-Project-SQL" >Data Cleaning Project Queries: Nashville Housing.sql</a> 
+ 
 **Description:** The dataset contains a list of houses that have been sold in Nashville between 2013 and 2019. This project includes the following steps: data loading, data cleaning and preprocessing.
 
 **Skills:**  DML(Data Manipulation Language), DQL (Data Query Language), DDL (Data Definition Language).
