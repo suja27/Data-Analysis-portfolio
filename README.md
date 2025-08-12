@@ -28,7 +28,7 @@ In this portfolio, you’ll find a collection of projects that highlight my tech
     - [Netflix Data Analysis](#Netflix-Data-Analysis)
     - [Nashville Housing Data Cleaning](#nashville-housing-data-cleaning)
   - **Power BI**
-    - [Legendary Pokémon Analysis (Study Project)](#legendary-pokémon-analysis-study-project)
+    - [HR-Dashboard](#HR-Dashboard)
   - **Excel / Google Sheets**
   - **Tableau** ––> [go to Tableau..](#go-to-tableau)
   
@@ -83,3 +83,8 @@ In this section, I list data analytics projects, briefly describing the technolo
 
 
   I have  practiced many sql problems from leet code  Such as easy, medium , hard level of complexity.These exercises helped strengthen my understanding of SQL concepts such as JOIN, GROUP BY, subqueries, window functions, and complex filtering, which are essential for solving real-world data problems. 
+
+  ## **HR-Dashboard** ##
+   <a  href = "https://github.com/suja27/HR-Dashboard-PowerBI" >  HR-Dashboard-PowerBI </a>  
+  **Description** This project features a comprehensive HR Dashboard built using Power BI, designed to help stakeholders analyze workforce data and support data-driven decision-making. The dashboard is structured across three main pages, Each page includes interactive visuals such as bar charts, line graphs, and slicers to allow users to explore the data dynamically. The dashboard aims to improve HR efficiency, support strategic planning, and uncover employee trends across the organization.
+
