@@ -70,5 +70,16 @@ In this section, I list data analytics projects, briefly describing the technolo
 **Skills used:** Data Cleaning, Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions
 
   **Technology:**  Microsoft Sql Server 
-  
+
+
+ ## Nashville Housing Data Cleaning ##
+ **URL:** Data Cleaning Project Queries: Nashville Housing.sql](https://github.com/suja27/Nashville-Housing-Project-SQL)
+
+**Description:** The dataset contains a list of houses that have been sold in Nashville between 2013 and 2019. This project includes the following steps: data loading, data cleaning and preprocessing.
+
+**Skills:**  DML(Data Manipulation Language), DQL (Data Query Language), DDL (Data Definition Language).
+
+**Technology:** Microsoft Sql Server 
+
+
   I have  practiced many sql problems from leet code  Such as easy, medium , hard level of complexity.These exercises helped strengthen my understanding of SQL concepts such as JOIN, GROUP BY, subqueries, window functions, and complex filtering, which are essential for solving real-world data problems. 
