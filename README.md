@@ -63,7 +63,7 @@ In this section, I list data analytics projects, briefly describing the technolo
    
  ## **Netflix Data Analysis**
   
- **URL:**< a href = "https://github.com/suja27/Netflix-SQL-Analysis-Project"> Netflix Data Analysis </a>
+ **URL:** < a href = "https://github.com/suja27/Netflix-SQL-Analysis-Project"> Netflix Data Analysis </a>
  
  **Description**  This project provides a comprehensive SQL-based analysis of Netflix’s catalog of movies and TV shows. The primary objective is to extract meaningful business insights from the data, identify trends, and support decision-making with evidence-based findings
  
