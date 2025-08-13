@@ -15,7 +15,7 @@ Dashboard design
 
 Data storytelling and reporting
 
-In this portfolio, you’ll find a collection of projects that highlight my technical capabilities and analytical thinking. These include SQL scripts, dashboards, Excel models, and PowerPoint presentations, all focused on transforming data into actionable insights. Each project is designed to demonstrate how I turn raw data into meaningful visualizations and business decisions.
+In this portfolio, you’ll find a collection of projects that highlight my technical capabilities and analytical thinking. These include SQL scripts, Excel, power bi and tableau  all focused on transforming data into actionable insights. Each project is designed to demonstrate how I turn raw data into meaningful visualizations and business decisions.
 
 ## 📑 Table of Contents
 
@@ -63,7 +63,7 @@ In this section, I list data analytics projects, briefly describing the technolo
    
  ## **Netflix Data Analysis**
   
- **URL:** https://github.com/suja27/Netflix-SQL-Analysis-Project
+ **URL:**< a href = "https://github.com/suja27/Netflix-SQL-Analysis-Project"> Netflix Data Analysis </a>
  
  **Description**  This project provides a comprehensive SQL-based analysis of Netflix’s catalog of movies and TV shows. The primary objective is to extract meaningful business insights from the data, identify trends, and support decision-making with evidence-based findings
  
