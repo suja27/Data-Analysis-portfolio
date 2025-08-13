@@ -30,8 +30,7 @@ In this portfolio, you’ll find a collection of projects that highlight my tech
   - **Power BI**
     - [HR-Dashboard](#HR-Dashboard)
     - [Sales Analysis](#Sales-Analysis)
-  - **Excel / Google Sheets**
-  - **Tableau** ––> <a href = "https://public.tableau.com/app/profile/sujatha.ahilan/vizzes"> go to tableau </a>
+    - **Tableau** ––> <a href = "https://public.tableau.com/app/profile/sujatha.ahilan/vizzes"> go to tableau </a>
   
 
 ## 💼 Portfolio Projects
@@ -39,7 +38,7 @@ In this portfolio, you’ll find a collection of projects that highlight my tech
 In this section, I list data analytics projects, briefly describing the technology stack used to solve each case. These projects showcase my skills in working with real-world datasets using tools such  SQL, Power BI, Excel, and Tableau.
 
 ## Sales and profit Analysis Dashboard
-  **URL:** https://github.com/suja27/Sales-and-profit-Dashboard-Excel
+  **URL:**<a href = "https://github.com/suja27/Sales-and-profit-Dashboard-Excel"> Sales and profit Analysis </a>
   
  **Description:** This project showcases a dynamic sales and profit dashboard built using Microsoft Excel. It involves data cleaning, analysis, and visualization to uncover key business insights. The dashboard helps track performance over time, identify top-selling products, monitor profit trends, and support informed decision-making.
  
@@ -50,7 +49,7 @@ In this section, I list data analytics projects, briefly describing the technolo
   **Power Query** – Used for data cleaning, transformation, and preparing structured datasets for analysis.
 
  ## Call Center Performance ##
- **URL:** https://github.com/suja27/Call-center-dashboard-Excel
+ **URL:** <a  href = "https://github.com/suja27/Call-center-dashboard-Excel"> Call Center performance </a>
  
  **Description:** This dashboard provides a comprehensive analysis of call centre performance by monitoring key metrics such as total calls handled, average call duration, customer satisfaction, first-call resolution rate, and agent performance. Built using Microsoft Excel , it enables managers to quickly assess operational efficiency and identify areas for improvement.
 
