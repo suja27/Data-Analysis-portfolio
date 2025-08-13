@@ -49,7 +49,7 @@ In this section, I list data analytics projects, briefly describing the technolo
   **Power Query** – Used for data cleaning, transformation, and preparing structured datasets for analysis.
 
  ## Call Center Performance ##
- **URL:** <a  href = "https://github.com/suja27/Call-center-dashboard-Excel"> Call Center performance </a>
+ **URL:** < a  href = "https://github.com/suja27/Call-center-dashboard-Excel"> Call Center performance </a>
  
  **Description:** This dashboard provides a comprehensive analysis of call centre performance by monitoring key metrics such as total calls handled, average call duration, customer satisfaction, first-call resolution rate, and agent performance. Built using Microsoft Excel , it enables managers to quickly assess operational efficiency and identify areas for improvement.
 
@@ -63,7 +63,7 @@ In this section, I list data analytics projects, briefly describing the technolo
    
  ## **Netflix Data Analysis**
   
- **URL:** < a href = "https://github.com/suja27/Netflix-SQL-Analysis-Project"> Netflix Data Analysis </a>
+ **URL:** <a href = "https://github.com/suja27/Netflix-SQL-Analysis-Project"> Netflix Data Analysis </a>
  
  **Description**  This project provides a comprehensive SQL-based analysis of Netflix’s catalog of movies and TV shows. The primary objective is to extract meaningful business insights from the data, identify trends, and support decision-making with evidence-based findings
  
